@@ -2,8 +2,9 @@
   "name": "strings",
   "version": "0.1.0",
   "description": "Módulo que traduce palabras a un idioma",
-  "main": "app.js",
+  "main": "dis/src/strangerString.js",
   "scripts": {
+    "build": "babel src/strangerString.js -d dis/"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/Any28Flo/strangerString/issues"
   },
-  "homepage": "https://github.com/Any28Flo/strangerString#readme"
+  "homepage": "https://github.com/Any28Flo/strangerString#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
 }
