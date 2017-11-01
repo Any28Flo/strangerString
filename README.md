@@ -26,8 +26,8 @@
   strangerString("abecedario") //abecedario
   strangerString("sometemos") //SoMeTeMoS
   ```
-  ##Créditos
+  ## Créditos
   -[Analin Flores] (https://twitter.com/@any28flo)
 
-  ##Licencia
+  ## Licencia
   [MIT] (https://opensource.org/licenses/MIT)
