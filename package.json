@@ -1,0 +1,22 @@
+{
+  "name": "strings",
+  "version": "0.1.0",
+  "description": "Módulo que traduce palabras a un idioma",
+  "main": "app.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Any28Flo/strangerString.git"
+  },
+  "keywords": [
+    "javascript",
+    "js"
+  ],
+  "author": "“Analin <“foglzerika@gmail.com”> (“https://twitter.com/any28flo”)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Any28Flo/strangerString/issues"
+  },
+  "homepage": "https://github.com/Any28Flo/strangerString#readme"
+}
