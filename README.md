@@ -23,7 +23,7 @@
   strangerString("Programar") //Program
   strangerString("Zorro") //Zorrope
   strangerString("Zarpar") //Zarppe
-  strangerString("abecedario") //abecedario
+  strangerString("abece-dario") //abecedario
   strangerString("sometemos") //SoMeTeMoS
   ```
   ## Créditos

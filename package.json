@@ -4,7 +4,8 @@
   "description": "Módulo que traduce palabras a un idioma",
   "main": "dis/src/strangerString.js",
   "scripts": {
-    "build": "babel src/strangerString.js -d dis/"
+    "build": "babel src/strangerString.js -d dis/",
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
